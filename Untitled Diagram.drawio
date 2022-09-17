@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-17T10:13:34.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="q8TUdbQnkQeGe1LXLGCZ" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-17T10:22:11.134Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="me8k55YSzPtUlPb5nvan" version="20.3.2" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
-    <mxGraphModel dx="2044" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1136" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -167,9 +167,6 @@
         </mxCell>
         <mxCell id="qLQg2HTwGVO7K_Gb8iUZ-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qLQg2HTwGVO7K_Gb8iUZ-75" target="qLQg2HTwGVO7K_Gb8iUZ-79">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qLQg2HTwGVO7K_Gb8iUZ-82" value="web application" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" vertex="1" parent="1">
-          <mxGeometry x="30.5" y="450" width="50" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
